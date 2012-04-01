@@ -1,1 +1,4 @@
 todo: write code
+
+note to self: git push -u origin master
+^^ the bash command for pushing updates in code to the git server
