@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Toss CenturyLink Redirect
 // @author          Paul Baker le Salt Shaker
-// @namespace       http://plus.google.com/104712665653645760753
+// @namespace       https://github.com/SonOfLysander
 // @description     CenturyLink users have to suffer through redirections whenever that user enters a correctly formed url that still 404's. This script re-redirects the user to Google (or any other searchengine of their choosing).
 // @license         Creative Commons Attribution License 3.0
 // @version	        0.78
