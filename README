@@ -1,10 +1,13 @@
-todo: write code
 
-note to self: 
-git commit -a
-git push
-^^ the bash commands for pushing updates in code to the git server
+CenturyLink users have to suffer through redirections whenever that user enters a correctly
+formed url that still 404's. This script re-redirects the user to Google (or any other searchengine
+of their choosing).
 
+Changing the variables in the script will do the following
 
-// origURL=http%3A//mypagethatdoesntexistanywhere.com
-// http://webhelper.centurylink.com/index.php?origURL=http%3A//mypagethatdoesntexistanywhere.com/&r=
+"pickYourSearchEngine" will change the search engine that redirects. 1 is for Google, 2 is Bing, 3 is Yahoo
+This variable exists because there is no way to direct to access the browser's default search. (Firefox
+apparently has a way, but not Google Chrome. I didn't want to spaghetti my code detecting browsers.)
+
+"dontRedirectManualSearches" is the variable that controls whether or not searching century link manually
+will redirect to your search engine. Changing this value to "true" will stop redirecting manual searches.
