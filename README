@@ -3,4 +3,8 @@ todo: write code
 note to self: 
 git commit -a
 git push
-^^ the bash command for pushing updates in code to the git server
+^^ the bash commands for pushing updates in code to the git server
+
+
+// origURL=http%3A//mypagethatdoesntexistanywhere.com
+// http://webhelper.centurylink.com/index.php?origURL=http%3A//mypagethatdoesntexistanywhere.com/&r=
