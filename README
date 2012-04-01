@@ -1,4 +1,6 @@
 todo: write code
 
-note to self: git push -u origin master
+note to self: 
+git commit -a
+git push
 ^^ the bash command for pushing updates in code to the git server
