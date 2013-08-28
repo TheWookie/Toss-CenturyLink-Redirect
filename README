@@ -1,3 +1,9 @@
+##---
+Update: I wrote this over a year ago when I was first teaching myself JavaScript. I now know much more
+about the JS library and the DOM structure and overall syntax. While this isn't terrible, it's not
+something that I'd call good. I'd re-do it all over, but I don't have CenturyLink anymore. My family
+switched to Comcast (yeah, I know). Anyone can have at it.
+##---
 
 CenturyLink users have to suffer through redirections whenever that user enters a correctly
 formed url that still 404's. This script re-redirects the user to Google (or any other searchengine
